@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background: linear-gradient(45deg, #6db0ee 0%, #ec6fb2 25%, #70ceeb 67%, #3f8ee9 80%, #6db0ee 100%);
+  background-attachment: fixed;
+}
+button {
+  cursor: pointer;
+}
